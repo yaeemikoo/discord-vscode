@@ -27,7 +27,7 @@
 	</p>
 	<p>
 		<a href="https://discord.gg/JRsDsGeETw">
-			<img src="https://canary.discord.com/channels/1047807456824279060/1047807936300331028/embed.png" alt="Discord server">
+			<img src="https://canary.discord.com/channels/1047807456824279060/embed.png" alt="Discord server">
 		</a>
 	</p>
 </div>
